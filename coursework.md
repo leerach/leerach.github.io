@@ -2,7 +2,7 @@
 layout: post
 title: Coursework
 description: Memorable classes I've taken at Cal.
-image: cal.jpg
+image: assets/images/cal.jpg
 nav-menu: true
 ---
 
