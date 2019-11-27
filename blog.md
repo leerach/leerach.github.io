@@ -2,7 +2,7 @@
 layout: post
 title: Blog
 description: My personal insights in the cs field.
-image: 
+image: blogpic.jpg
 nav-menu: true
 ---
 
