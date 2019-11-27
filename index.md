@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Welcome to my personalized page!'
+landing-title: 'Hi, I'm Rachel Lee'
 description: null
 image: null
 author: null
