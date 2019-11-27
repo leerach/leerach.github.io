@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog
-description: My personal insights in the cs field.
+title: Experience
+description: My contributions to the cs community.
 nav-menu: true
 ---
 
