@@ -2,7 +2,7 @@
 title: Rachel Lee
 subtitle: 
 email: bokyounglee@berkeley.edu
-description: A creative space where I display my life and projects!
+description: A creative space where I display my life and projects.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Rachel Lee
@@ -23,8 +23,8 @@ linkedin_url: https://www.linkedin.com/in/leerach/
 github_url: https://github.com/leerach
 gitlab_url:
 googleplus_url: 
-facebook_url: https://www.facebook.com/rachellee.brl
-instagram_url: https://www.instagram.com/ratchellee/
+facebook_url: 
+instagram_url: 
 pinterest_url:
 slack_url:
 twitter_url: 
