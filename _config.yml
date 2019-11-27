@@ -3,7 +3,7 @@ title: Rachel Lee
 subtitle: 
 email: bokyounglee@berkeley.edu
 description: Welcome to my creative space where I display my life and projects.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: rachlee.com
 author: Rachel Lee
 street_address: 
