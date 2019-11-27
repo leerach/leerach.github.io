@@ -2,6 +2,7 @@
 layout: page
 title: Experience
 description: My contributions to the cs community.
+image: gie.jpg
 nav-menu: true
 ---
 
