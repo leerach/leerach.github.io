@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: Coursework
+description: Memorable classes I've taken at Cal.
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
