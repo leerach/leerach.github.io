@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Projects
-description: Check out what I've been working on!.
-image: assets/images/code.jpg
+title: Blog
+description: My personal insights in the cs field.
+image: assets/images/blogpic.jpg
 nav-menu: true
 ---
 
