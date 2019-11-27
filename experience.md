@@ -20,12 +20,12 @@ nav-menu: true
 <h2 id="content">Girls in Engineering Program Group Lead Volunteer</h2>
 <h4>University of California, Berkeley | July 2018</h4>
 
-<span class="image fit"><img src="assets/images/pic03.jpg" alt="" /></span>
+<span class="image fit"><img src="assets/images/littlegirls.jpg" alt="" /></span>
 <div class="box alt">
 	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="assets/images/pic09.jpg" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="assets/images/pic10.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/prosthetic hand.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/groupgirls.jpg" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="assets/images/thankyou.jpg" alt="" /></span></div>
 		
 <p>Encouraged young girls explore different fields of engineering as a group leader for two weeks in the Girls in Engineering program. Built 3D printed prosthetic hands, explained practicalities of self-driving cars and demonstrated creative projects of biomimicry.
 .</p>
