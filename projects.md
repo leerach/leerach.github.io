@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 description: Check out what I've been working on!.
-image: gie.jpg
+image: assets/images/code.jpg
 nav-menu: true
 ---
 
