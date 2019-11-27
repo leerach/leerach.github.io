@@ -2,6 +2,7 @@
 layout: page
 title: Projects
 description: Check out what I've been working on!
+image: code.jpg
 show_tile: true
 nav-menu: true
 ---
