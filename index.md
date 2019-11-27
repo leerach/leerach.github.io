@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-I am currently a Computer Science undergraduate at UC Berkeley.
+I am currently a first-year Computer Science undergraduate at UC Berkeley. I love exploring new places, meeting new people, and learning about their unique experiences. Some of my hobbies include solving puzzles, reading classic novels, and playing tennis. 
