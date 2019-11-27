@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Projects
+description: Check out what I've been working on!
 nav-menu: true
 ---
 
