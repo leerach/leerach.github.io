@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blog
-description: My personal insights within the cs field.
+description: My personal insights in the cs field.
 image: 
 nav-menu: true
 ---
