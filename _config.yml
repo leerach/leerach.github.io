@@ -11,7 +11,7 @@ city: Berkeley
 state: CA
 zip_code: 94704 
 country: USA
-phone: (925)989-1451
+phone: (925) 989-1451
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
