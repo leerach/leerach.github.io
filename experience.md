@@ -23,8 +23,8 @@ nav-menu: true
 <span class="image fit"><img src="assets/images/groupgirls.jpg" alt="" /></span>
 <div class="box alt">
 	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="assets/images/prosthetic hand.JPG" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="assets/images/littlgirls.JPG" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/prosthetichand.JPG" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/littlegirls.JPG" alt="" /></span></div>
 		<div class="4u$"><span class="image fit"><img src="assets/images/thankyou.JPG" alt="" /></span></div>
 		
 <p>Encouraged young girls explore different fields of engineering as a group leader for two weeks in the Girls in Engineering program. Built 3D printed prosthetic hands, explained practicalities of self-driving cars and demonstrated creative projects of biomimicry.
