@@ -21,7 +21,7 @@ nav-menu: true
 <!-- Content -->
 <h2 id="content">CS 61A: Structure and Interpretation of Computer Programs</h2> 
 <ul class="actions"> 
-	<h2 <li><a href="#" <button onclick="window.location.href = 'https://cs61a.org';">CS61A</button></a></li></h2>
+	<button onclick="window.location.href = 'https://cs61a.org';">CS61A</button>
 	
 <div class="box">
 	<p>CS 61A concentrates on the idea of abstraction, allowing the programmer to think in terms appropriate to the problem rather than in low-level operations dictated by the computer hardware.</p>
