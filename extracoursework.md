@@ -16,12 +16,13 @@ nav-menu: true
 			<h1>Coursework</h1>
 		</header>
 
-<ul class="actions"> 
-	<h2><button onclick="window.location.href = 'https://cs61a.org';">CS61A</button></h2>
+
 
 <!-- Content -->
 <h2 id="content">CS 61A: Structure and Interpretation of Computer Programs</h2> 
-
+<ul class="actions"> 
+	<h2><button onclick="window.location.href = 'https://cs61a.org';">CS61A</button></h2>
+	
 <div class="box">
 	<p>CS 61A concentrates on the idea of abstraction, allowing the programmer to think in terms appropriate to the problem rather than in low-level operations dictated by the computer hardware.</p>
 </div>	
