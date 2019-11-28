@@ -2,7 +2,7 @@
 layout: page
 title: Experience
 description: My contributions to the cs community.
-image: assets/images/gie.jpg
+image: assets/images/groupgirls.jpg
 nav-menu: true
 ---
 
