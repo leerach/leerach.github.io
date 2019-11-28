@@ -23,6 +23,6 @@ nav-menu: true
 <ul class="actions"> 
 	<button onclick="window.location.href = 'https://cs61a.org';">CS61A</button>
 
-<br><div class="box">
+<div class="box">
 	<p>CS 61A concentrates on the idea of abstraction, allowing the programmer to think in terms appropriate to the problem rather than in low-level operations dictated by the computer hardware.</p>
 </div>	
