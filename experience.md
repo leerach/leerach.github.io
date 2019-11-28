@@ -37,9 +37,9 @@ nav-menu: true
 <span class="image fit"><img src="assets/images/groupgirls.jpg" alt="" /></span>
 <div class="box alt">
 	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="assets/images/prosthetichand.JPG" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/frc.JPG" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="assets/images/littlegirls.JPG" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="assets/images/thankyou.JPG" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="assets/images/robotmechanism.JPG" alt="" /></span></div>
 		
 <p>Managed engineering notebook, outreach events, build sessions, and mechanical and software engineering of robot.
 Created budget plans, handled finances, and fundraised over $5000 throughout the team's season. Efficiently delegated tasks among team members and fostered a collaborative, learning environment. Won the FTC Control Award at Folsom tournament for most accurate and consistent autonomous programs and sensors. Volunteered in FRC championship tournaments to help facilitate field setups in teams.</p>
