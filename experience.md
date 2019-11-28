@@ -34,11 +34,11 @@ nav-menu: true
 
 
 <h2 id="content">Robotics Club FTC Team 3470 President</h2>
-<h4>Brentwood, CA | August 2018 - July 2018</h4>
+<br><h4>Brentwood, CA | August 2018 - July 2018</h4>
 
 <div class="box alt">
 	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="frc.JPG" width="50" height="50" alt=""></span></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/frc.JPG" width="200" height="200" alt=""></span></div>
 		<div class="4u"><span class="image fit"><img src="assets/images/controlaward.JPG" width="50" height="50" alt="" /></span></div>
 		<div class="4u$"><span class="image fit"><img src="assets/images/robotmechanism.JPG" width="50" height="50" alt="" /></span></div>
 
