@@ -21,5 +21,7 @@ nav-menu: true
 
 <!-- Content -->
 <h2 id="content">CS 61A: Structure and Interpretation of Computer Programs</h2> 
-	
-<br><p>CS 61A concentrates on the idea of abstraction, allowing the programmer to think in terms appropriate to the problem rather than in low-level operations dictated by the computer hardware.</p>
+
+<div class="box">
+	<p>CS 61A concentrates on the idea of abstraction, allowing the programmer to think in terms appropriate to the problem rather than in low-level operations dictated by the computer hardware.</p>
+</div>	
