@@ -19,7 +19,7 @@ nav-menu: true
 <!-- Content -->
 <h2 id="content">Girls in Engineering Program Group Lead Volunteer</h2>
 <h4>University of California, Berkeley | July 2018</h4>
-<span class="image fit"><img src="assets/images/groupgirls.jpg" width="400" height="400" alt="" /></span>
+<span class="image fit"><img src="assets/images/groupgirls.jpeg" width="400" height="400" alt="" /></span>
 <div class="box alt">
 	<div class="row 50% uniform">
 		<div class="4u"><span class="image fit"><img src="assets/images/prosthetichand.JPG" width="200" height="200" alt="" /></span></div>
@@ -40,7 +40,7 @@ nav-menu: true
 <div class="box alt">
 	<div class="row 50% uniform">
 		<div class="4u"><span class="image fit"><img src="assets/images/frc.JPG" width="200" height="200" alt=""></span></div>
-		<div class="4u"><span class="image fit"><img src="assets/images/controlaward.JPG" width="200" height="200" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/controlaward.jpeg" width="200" height="200" alt="" /></span></div>
 		<div class="4u$"><span class="image fit"><img src="assets/images/robotmechanism.JPG" width="200" height="200" alt="" /></span></div>
 	</div>
 </div>
