@@ -35,7 +35,7 @@ nav-menu: true
 
 
 <h2 id="content">Robotics Club FTC Team 3470 President</h2>
-<br><h4>Brentwood, CA | August 2018 - July 2018</h4>
+<h4>Brentwood, CA | August 2018 - July 2018</h4>
 
 <div class="box alt">
 	<div class="row 50% uniform">
