@@ -17,7 +17,7 @@ nav-menu: true
 		</header>
 
 <ul class="actions"> 
-	<h1><button onclick="window.location.href = 'https://cs61a.org';">CS61A</button></h1>
+	<h2><button onclick="window.location.href = 'https://cs61a.org';">CS61A</button></h2>
 
 <!-- Content -->
 <h2 id="content">CS 61A: Structure and Interpretation of Computer Programs</h2> 
