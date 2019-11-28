@@ -19,11 +19,11 @@ nav-menu: true
 <!-- Content -->
 <h2 id="content">Girls in Engineering Program Group Lead Volunteer</h2>
 <h4>University of California, Berkeley | July 2018</h4>
-<span class="image fit"><img src="assets/images/groupgirls.jpg" width="200" height="400" alt="" /></span>
+<span class="image fit"><img src="assets/images/groupgirls.jpg" width="400" height="400" alt="" /></span>
 <div class="box alt">
 	<div class="row 50% uniform">
 		<div class="4u"><span class="image fit"><img src="assets/images/prosthetichand.JPG" width="200" height="200" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="assets/images/gie.jpg" alt="" width="200" height="200" /></span></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/littlegirls.jpg" alt="" width="200" height="200" /></span></div>
 		<div class="4u$"><span class="image fit"><img src="assets/images/thankyou.JPG" width="200" height="200" alt="" /></span></div>
 	</div>
 </div>
