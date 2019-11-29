@@ -47,6 +47,7 @@ nav-menu: true
 
 <ul class="actions"> 
 	<button onclick="window.location.href = 'https://docs.google.com/document/d/16JOS3bRpUHqcP99KiMP5p6IJ23MM9XNvWZTQhgpomKo/edit?usp=sharing';">Engineering Notebook</button>
+</u>
 <div class="box">
 	<p>Managed engineering notebook, outreach events, build sessions, and mechanical and software engineering of robot.
 Created budget plans, handled finances, and fundraised over $5000 throughout the team's season. Efficiently delegated tasks among team members and fostered a collaborative, learning environment. Won the FTC Control Award at Folsom tournament for most accurate and consistent autonomous programs and sensors. Volunteered in FRC championship tournaments to help facilitate field setups in teams.</p>
