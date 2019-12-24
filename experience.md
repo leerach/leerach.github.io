@@ -39,8 +39,8 @@ nav-menu: true
 
 <div class="box alt">
 	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="assets/images/frc.JPG" alt="" width="300" height="300"></span></div>
-		<div class="4u"><span class="image fit"><img src="assets/images/controlaward.jpeg" alt="" width=300" height="300" /></span></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/frc.JPG" alt="" width="300" height="300"/></span></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/controlaward.jpeg" alt="" width="300" height="300"/></span></div>
 		<div class="4u$"><span class="image fit"><img src="assets/images/robotmechanism.JPG" alt="" width="300" height="300"/></span></div>
 	</div>
 </div>
