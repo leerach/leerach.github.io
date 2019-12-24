@@ -19,7 +19,6 @@ nav-menu: true
 <!-- Content -->
 <h2 id="content">Girls in Engineering Program Group Lead Volunteer</h2>
 <h4>University of California, Berkeley | July 2018</h4>
-<h4>Fit</h4>
 <span class="image fit"><img src="assets/groupgirls.jpeg" alt="" /></span>
 <div class="box alt">
 	<div class="row 50% uniform">
