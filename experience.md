@@ -22,7 +22,7 @@ nav-menu: true
 <span class="image fit"><img src="assets/images/groupgirls.jpeg" width="400" height="400" alt="" /></span>
 <div class="box alt">
 	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="assets/images/prosthetichand.JPG" alt="" width="300" height="500" /></span></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/prosthetichand.JPG" alt="" width="300" height="400" /></span></div>
 		<div class="4u"><span class="image fit"><img src="assets/images/littlegirls.JPG" alt="" width="300" height="300"/></span></div>
 		<div class="4u$"><span class="image fit"><img src="assets/images/thankyou.JPG" alt="" width="300" height="300"/></span></div>
 	</div>
