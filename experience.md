@@ -20,12 +20,12 @@ nav-menu: true
 <h2 id="content">Girls in Engineering Program Group Lead Volunteer</h2>
 <h4>University of California, Berkeley | July 2018</h4>
 <h4>Fit</h4>
-<span class="image fit"><img src="assets/images/pic03.jpg" alt="" /></span>
+<span class="image fit"><img src="assets/groupgirls.jpeg" alt="" /></span>
 <div class="box alt">
 	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="assets/images/pic09.jpg" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="assets/images/pic10.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/prosthetichand.JPG" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/littlegirls.JPG" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="assets/images/thankyou.JPG" alt="" /></span></div>
 		<!-- Break -->
 		<div class="4u"><span class="image fit"><img src="assets/images/pic10.jpg" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" /></span></div>
@@ -34,14 +34,6 @@ nav-menu: true
 		<div class="4u"><span class="image fit"><img src="assets/images/pic09.jpg" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="assets/images/pic10.jpg" alt="" /></span></div>
 		<div class="4u$"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" /></span></div>
-	</div>
-</div>
-<span class="image fit"><img src="assets/images/groupgirls.jpeg" width="400" height="400" alt="" /></span>
-<div class="box alt">
-	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="assets/images/prosthetichand.JPG" width="200" height="200" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="assets/images/littlegirls.JPG" alt="" width="200" height="200" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="assets/images/thankyou.JPG" width="200" height="200" alt="" /></span></div>
 	</div>
 </div>
 		
