@@ -12,7 +12,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1 Projects </h1>
+			<h1>Projects</h1>
 		</header>
 
 <!-- Content -->
@@ -20,7 +20,7 @@ nav-menu: true
 	<h2 id="content">Scheme Interpreter</h2>
 </div>
 
-<h4 Python </h4>
+<h4>Python </h4>
 <div class="row"> 
 	<p> Built a scheme interpreter in Python with tail recursion optimization, lazy evaluation, and streaming.</p>
 </div>
@@ -30,7 +30,7 @@ nav-menu: true
 	<h2 id="content">Typing Speed Measurer</h2>
 </div>
 
-<h4 Python </h4>
+<h4>Python </h4>
 <div class="row"> 
 	<p> Wrote a program that measures typing speed and implements autocorrect with data abstraction, tree recursion, and containers. </p>
 </div>
@@ -39,7 +39,7 @@ nav-menu: true
 <div class="box"> 
 	<h2 id="content">FTC Competition Robot</h2>
 </div>
-<h4 Java | OpenCV </h4>
+<h4>Java | OpenCV</h4>
 <ul class="actions"> 
 	<button onclick="window.location.href = 'https://github.com/leerach/team3470/tree/master/teamcode';">GitHub</button>
 </ul>
