@@ -1,6 +1,6 @@
 ---
 title: Projects
-layout: landing
+layout: page
 description: Check out what I've been working on!
 image: assets/images/code.jpg
 nav-menu: true
