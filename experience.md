@@ -48,7 +48,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="https://www.kumon.com/" class="image">
-			<img src="assets/images/kumonlogo2.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/kumonlogo2.jpg" alt="" data-position="25% 25%" height = "300"/>
 		</a>
 		<div class="content">
 			<div class="inner">
