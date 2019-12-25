@@ -16,15 +16,12 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<div class="inner">
-		<header class="major">
-			<h2>Scheme Interpreter</h2>
-		</header>
+<hr class="major" />
+<h2>Scheme Interpreter</h2>
 <h4>Python </h4>
 <div class="row"> 
 	<p> Built a scheme interpreter in Python with tail recursion optimization, lazy evaluation, and streaming.</p>
 </div>
-<hr />
 <!-- Break -->
 <hr class="major" />
 <h2 id="content">Typing Speed Measurer</h2>
@@ -32,7 +29,6 @@ nav-menu: true
 <div class="row"> 
 	<p> Wrote a program that measures typing speed and implements autocorrect with data abstraction, tree recursion, and containers. </p>
 </div>
-<hr />
 <!-- Break -->
 <hr class="major" />
 <h2 id="content">FTC Competition Robot</h2>
