@@ -16,8 +16,10 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<hr class="major" />
-<h2 id="content">Scheme Interpreter</h2>
+<div class="inner">
+		<header class="major">
+			<h2>Scheme Interpreter</h2>
+		</header>
 <h4>Python </h4>
 <div class="row"> 
 	<p> Built a scheme interpreter in Python with tail recursion optimization, lazy evaluation, and streaming.</p>
