@@ -14,7 +14,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="http://girlsinengineering.berkeley.edu/" class="image">
-			<img src="assets/images/groupgirls.jpeg" alt="" data-position="center center" height = "400"/>
+			<img src="assets/images/groupgirls.jpeg" alt="" data-position="center center"/>
 		</a>
 		<div class="content">
 			<div class="inner">
