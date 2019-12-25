@@ -39,7 +39,7 @@ nav-menu: true
 					<h3>Robotics Club FTC Team 3470 President</h3>
 				</header>
 				<h4>Brentwood, CA | August 2018 - July 2018</h4>
-				<p>Managed engineering notebook, outreach events, build sessions, and mechanical and software engineering of robot. Created budget plans, handled finances, and fundraised over $5000 throughout the team's season. Efficiently delegated tasks among team members and fostered a collaborative, learning environment. Won the FTC Control Award at Folsom tournament for most accurate and consistent autonomous programs and sensors. Volunteered in FRC championship tournaments to help facilitate field setups in teams and learn from top teams about unique build designs and efficient software algorithms.</p>
+				<p>Efficiently delegated tasks among team members and fostered a collaborative, learning environment while managing engineering notebook, build sessions, outreach events, and fundraising over $5000 throughout the team's season. Won the FTC Control Award at Folsom tournament for most accurate and consistent autonomous programs and sensors. Volunteered in FRC championship tournaments to help facilitate field setups and learn from top teams about unique build designs and efficient software algorithms.</p>
 				<ul class="actions">
 					<li><a href="https://www.firstinspires.org/robotics/ftc" class="button">Learn more</a></li>
 				</ul>
