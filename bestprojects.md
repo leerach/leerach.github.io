@@ -24,14 +24,15 @@ nav-menu: true
 </div>
 <hr />
 <!-- Break -->
-
+<hr class="major" />
 <h2 id="content">Typing Speed Measurer</h2>
 <h4>Python </h4>
 <div class="row"> 
 	<p> Wrote a program that measures typing speed and implements autocorrect with data abstraction, tree recursion, and containers. </p>
 </div>
-
+<hr />
 <!-- Break -->
+<hr class="major" />
 <h2 id="content">FTC Competition Robot</h2>
 <h4>Java | OpenCV</h4>
 <ul class="actions"> 
@@ -40,4 +41,4 @@ nav-menu: true
 <div class="row"> 
 	<p> Mapped robot motors and servos to controls and programmed the autonomous trajectory of the robot in Java. Utilized phone camera communications with robot to enhance object detection with OpenCV to accurately identify an object's shape and color. </p>
 </div>
-
+<hr />
