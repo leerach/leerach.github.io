@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Projects
+layout: landing
 description: Check out what I've been working on!
 image: assets/images/code.jpg
 nav-menu: true
@@ -16,11 +16,13 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
+<hr class="major" />
 <h2 id="content">Scheme Interpreter</h2>
 <h4>Python </h4>
 <div class="row"> 
 	<p> Built a scheme interpreter in Python with tail recursion optimization, lazy evaluation, and streaming.</p>
 </div>
+<hr />
 <!-- Break -->
 
 <h2 id="content">Typing Speed Measurer</h2>
