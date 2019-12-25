@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: landing
 title: Experience
 description: My contributions to the cs community.
 image: assets/images/groupgirls.jpeg
