@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: landing
 title: Coursework
 description: Memorable classes I've taken at Cal.
 image: assets/images/cal.jpeg
