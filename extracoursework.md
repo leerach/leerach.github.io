@@ -34,7 +34,7 @@ nav-menu: true
 </ul>
 
 <div class="box">
-	<p>The CS 61 series is an introduction to computer science, with particular emphasis on software and machines from a programmer's point of view. In CS 61B, we move to a somewhat more detailed (and to some extent, more basic) level of programming.</p>
+	<p>CS61B deals with the more advanced engineering aspects of software, such as constructing and analyzing large programs.</p>
 </div>	
 
 <h2 id="content">EECS 16A: Data Structures</h2> 
