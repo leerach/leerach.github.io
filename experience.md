@@ -55,7 +55,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Kumon Tutor</h3>
 				</header>
-				<h4>Brentwood CA | November 2018 – August 2019</h4>
+				<h4>Brentwood, CA | November 2018 – August 2019</h4>
 				<p>Developed students’ confidence by clarifying mathematical and reading concepts and applied effective learning strategies to improve students’ study skills and retention. Personally worked one-on-one with students with significant learning challenges.</p>
 				<ul class="actions">
 					<li><a href="https://www.kumon.com/" class="button">Learn more</a></li>
