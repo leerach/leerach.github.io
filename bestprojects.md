@@ -19,6 +19,9 @@ nav-menu: true
 <hr class="major" />
 <h2>Scheme Interpreter</h2>
 <h4>Python </h4>
+<ul class="actions"> 
+	<button onclick="window.location.href = 'https://github.com/leerach/cs61a_fa19/tree/master/projects/scheme';">GitHub</button>
+</ul>
 <div class="row"> 
 	<p> Built a scheme interpreter in Python with tail recursion optimization, lazy evaluation, and streaming.</p>
 </div>
@@ -26,6 +29,9 @@ nav-menu: true
 <hr class="major" />
 <h2 id="content">Typing Speed Measurer</h2>
 <h4>Python </h4>
+<ul class="actions"> 
+	<button onclick="window.location.href = 'https://github.com/leerach/cs61a_fa19/tree/master/projects/cats';">GitHub</button>
+</ul>
 <div class="row"> 
 	<p> Wrote a program that measures typing speed and implements autocorrect with data abstraction, tree recursion, and containers. </p>
 </div>
