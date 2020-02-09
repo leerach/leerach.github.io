@@ -37,7 +37,7 @@ nav-menu: true
 	<p>CS61B deals with the more advanced engineering aspects of software, such as constructing and analyzing large programs.</p>
 </div>	
 
-<h2 id="content">EECS 16A: Data Structures</h2> 
+<h2 id="content">EECS 16A: Linear Algebra and Circuits</h2> 
 <ul class="actions"> 
 	<button onclick="window.location.href = 'http://www.eecs16a.org/';">EECS 16A</button>
 </ul>
