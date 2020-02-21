@@ -45,7 +45,6 @@ nav-menu: true
 <div class="box">
 	<p>EECS16AB was specially designed to ramp students up to prepare for courses in machine learning and design and are important classes to set the stage for the rest of your time in the department. A rough breakdown of the content in the classes is as follows:
 
-<h3>Lists</h3>
 <div class="row">
 	<div class="6u 12u$(small)">
 
