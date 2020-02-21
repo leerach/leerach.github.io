@@ -66,9 +66,3 @@ nav-menu: true
 		</ul>
 	</div>
 </div>
-<!-- 16A:
-<br> Module 1: Introduction to systems and linear algebra
-<br> Module 2: Introduction to design and circuit analysis
-<br> Module 3: Introduction to machine learning</p>
-</div>	
--->
