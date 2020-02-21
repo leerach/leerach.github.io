@@ -46,7 +46,7 @@ nav-menu: true
 	<p>EECS16AB was specially designed to ramp students up to prepare for courses in machine learning and design and are important classes to set the stage for the rest of your time in the department. A rough breakdown of the content in the classes is as follows:
 
 16A:
-Module 1: Introduction to systems and linear algebra
-Module 2: Introduction to design and circuit analysis
-Module 3: Introduction to machine learning</p>
+<br> Module 1: Introduction to systems and linear algebra
+<br> Module 2: Introduction to design and circuit analysis
+<br> Module 3: Introduction to machine learning</p>
 </div>	
