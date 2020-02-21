@@ -60,11 +60,9 @@ nav-menu: true
 
 		<h4>EECS 16B:</h4>
 		<ul class="alt">
-		<ol>
-			<li>DModule 1: Differential equations and advanced circuit design</li>
+			<li>Module 1: Differential equations and advanced circuit design</li>
 			<li>Module 2: Introduction to robotics and control</li>
 			<li>Module 3: Introduction to unsupervised machine learning and classification</li>
-		</ol>
 		</ul>
 	</div>
 </div>
