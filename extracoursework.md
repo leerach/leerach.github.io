@@ -49,13 +49,6 @@ nav-menu: true
 <div class="row">
 	<div class="6u 12u$(small)">
 
-		<h4EECS 16A:</h4>
-		<ul>
-			<li>Module 1: Introduction to systems and linear algebra</li>
-			<li>Module 2: Introduction to design and circuit analysis</li>
-			<li>Module 3: Introduction to machine learning</li>
-		</ul>
-
 		<h4>EECS 16A:</h4>
 		<ul class="alt">
 			<li>Module 1: Introduction to systems and linear algebra</li>
@@ -67,11 +60,13 @@ nav-menu: true
 	<div class="6u$ 12u$(small)">
 
 		<h4>EECS 16B:</h4>
+		<ul class="alt">
 		<ol>
 			<li>DModule 1: Differential equations and advanced circuit design</li>
 			<li>Module 2: Introduction to robotics and control</li>
 			<li>Module 3: Introduction to unsupervised machine learning and classification</li>
 		</ol>
+		</ul>
 	</div>
 </div>
 <!-- 16A:
