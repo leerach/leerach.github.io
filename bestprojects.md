@@ -25,6 +25,7 @@ nav-menu: true
 	 Based on the board game Lines of Action.</p>
 </div>
 <!-- Break -->
+<hr class="major" />
 <h2>Enigma Machine</h2>
 <h4>Java </h4>
 <div class="row"> 
