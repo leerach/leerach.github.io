@@ -17,11 +17,24 @@ nav-menu: true
 
 <!-- Content -->
 <hr class="major" />
+<h2>Lines of Action Board Game</h2>
+<h4>Java </h4>
+<div class="row"> 
+	<p> Implemented the functionality of the manual player and 
+	utilized game trees, heuristics, and minimax algorithms to create an efficient AI to beat its opponent.
+	 Based on the board game Lines of Action.</p>
+</div>
+<!-- Break -->
+<h2>Enigma Machine</h2>
+<h4>Java </h4>
+<div class="row"> 
+	<p> Recreated the German Enigma machine used in WWII to encrypt and decode messages, 
+	programming the permutations, substitution ciphers, and configurations of each interchangeable component of the system.  </p>
+</div>
+<!-- Break -->
+<hr class="major" />
 <h2>Scheme Interpreter</h2>
 <h4>Python </h4>
-<ul class="actions"> 
-	<button onclick="window.location.href = 'https://github.com/leerach/cs61a_fa19/tree/master/projects/scheme';">GitHub</button>
-</ul>
 <div class="row"> 
 	<p> Built a scheme interpreter in Python with tail recursion optimization, lazy evaluation, and streaming.</p>
 </div>
@@ -29,15 +42,12 @@ nav-menu: true
 <hr class="major" />
 <h2 id="content">Typing Speed Measurer</h2>
 <h4>Python </h4>
-<ul class="actions"> 
-	<button onclick="window.location.href = 'https://github.com/leerach/cs61a_fa19/tree/master/projects/cats';">GitHub</button>
-</ul>
 <div class="row"> 
 	<p> Wrote a program that measures typing speed and implements autocorrect with data abstraction, tree recursion, and containers. </p>
 </div>
 <!-- Break -->
 <hr class="major" />
-<h2 id="content">FTC Competition Robot</h2>
+<h2 id="content">Autonomous Object Detection</h2>
 <h4>Java | OpenCV</h4>
 <ul class="actions"> 
 	<button onclick="window.location.href = 'https://github.com/leerach/team3470/tree/master/teamcode';">GitHub</button>
