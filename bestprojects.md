@@ -18,11 +18,17 @@ nav-menu: true
 <!-- Content -->
 <!-- Break -->
 <hr class="major" />
+<h2>Enrollment Graph Visualization</h2>
+<h4>Java </h4>
+<div class="row"> 
+	<p> Redesigned entire front-end visual representation of enrollment graph for Berkeley Law courses using Chart.js to create an aesthetic and user interactive interface for multiline charts pulling data from external APIs.</p>
+</div>
+<hr class="major" />
 <h2>Gitlet: Recreation of Git</h2>
 <h4>Java </h4>
 <div class="row"> 
-	<p> ●	Created from scratch a working implementation of the git version-control system starting from the detailed design documentation to structure each component and replicate the core functionalities. <br>
-	●	Learned how to apply persistence to preserve each state of the program and utilize graph traversals to handle merge conflicts and criss-cross merges.
+	<p> ● Created from scratch a working implementation of the git version-control system starting from the detailed design documentation to structure each component and replicate the core functionalities. <br>
+	● Learned how to apply persistence to preserve each state of the program and utilize graph traversals to handle merge conflicts and criss-cross merges.
   </p>
 </div>
 <hr class="major" />
