@@ -14,7 +14,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a class="image">
-			<img src="assets/images/BerkeleyLaw" alt="" data-position="center center" height = "400"/>
+			<img src="assets/images/BerkeleyLaw.jpg" alt="" data-position="center center" height = "400"/>
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -22,7 +22,7 @@ nav-menu: true
 					<h3>Web Software Developer</h3>
 				</header>
 				<h4>University of California, Berkeley - School of Law | February 2020 – Present</h4>
-				<p>● Design and implement front-end and back-end development of web applications utilizing primarily JavaScript, HTML5, PHP, and MySQL while working with the web development team. 
+				<p>Design and implement front-end and back-end development of web applications utilizing primarily JavaScript, HTML5, PHP, and MySQL while working with the web development team. 
 				</p>
 			</div>
 		</div>
@@ -54,7 +54,9 @@ nav-menu: true
 					<h3>Robotics Club FTC Team 3470 President</h3>
 				</header>
 				<h4>Brentwood, CA | August 2018 - July 2018</h4>
-				<p>Efficiently delegated tasks among team members and fostered a collaborative, learning environment while managing engineering notebook, build sessions, outreach events, and fundraising over $5000 throughout the team's season. Won the FTC Control Award at Folsom tournament for most accurate and consistent autonomous programs and sensors. Volunteered in FRC championship tournaments to help facilitate field setups and learn from top teams about unique build designs and efficient software algorithms.</p>
+				<p>● Efficiently delegated tasks among team members and fostered a collaborative, learning environment while managing engineering notebook, build sessions, outreach events, and fundraising over $5000 throughout the team's season. <br>
+				● Won the FTC Control Award at Folsom tournament for most accurate and consistent autonomous programs and sensors. <br>
+			● Volunteered in FRC championship tournaments to help facilitate field setups and learn from top teams about unique build designs and efficient software algorithms.</p>
 				<ul class="actions">
 					<li><a href="https://www.firstinspires.org/robotics/ftc" class="button">Learn more</a></li>
 				</ul>
