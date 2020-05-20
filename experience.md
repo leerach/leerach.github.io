@@ -19,6 +19,21 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
+					<h3>Web Software Developer</h3>
+				</header>
+				<h4>University of California, Berkeley - School of Law | February 2020 – Present</h4>
+				<p>● Design and implement front-end and back-end development of web applications utilizing primarily JavaScript, HTML5, PHP, and MySQL while working with the web development team. 
+				</p>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a  class="image">
+			<img src="assets/images/BerkeleyLaw" alt="" data-position="center center" height = "400"/>
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
 					<h3>Girls in Engineering Program Group Lead Volunteer</h3>
 				</header>
 				<h4>University of California, Berkeley | July 2018</h4>
