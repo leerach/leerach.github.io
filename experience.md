@@ -13,8 +13,8 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="http://girlsinengineering.berkeley.edu/" class="image">
-			<img src="assets/images/grouppic.JPG" alt="" data-position="center center" height = "400"/>
+		<a class="image">
+			<img src="assets/images/BerkeleyLaw" alt="" data-position="center center" height = "400"/>
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -28,8 +28,8 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a  class="image">
-			<img src="assets/images/BerkeleyLaw" alt="" data-position="center center" height = "400"/>
+		<a href="http://girlsinengineering.berkeley.edu/" class="image">
+			<img src="assets/images/grouppic.JPG" alt="" data-position="center center" height = "400"/>
 		</a>
 		<div class="content">
 			<div class="inner">
