@@ -14,7 +14,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a class="image">
-			<img src="assets/images/BerkeleyLaw.jpg" alt="" data-position="center center" height = "400"/>
+			<img src="assets/images/lawlogo.jpg" alt="" data-position="center center" height = "400"/>
 		</a>
 		<div class="content">
 			<div class="inner">
