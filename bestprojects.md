@@ -16,13 +16,22 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
+<!-- Break -->
+<hr class="major" />
+<h2>Gitlet: Recreation of Git</h2>
+<h4>Java </h4>
+<div class="row"> 
+	<p> ●	Created from scratch a working implementation of the git version-control system starting from the detailed design documentation to structure each component and replicate the core functionalities. <br>
+	●	Learned how to apply persistence to preserve each state of the program and utilize graph traversals to handle merge conflicts and criss-cross merges.
+  </p>
+</div>
 <hr class="major" />
 <h2>Lines of Action Board Game</h2>
 <h4>Java </h4>
 <div class="row"> 
 	<p> Implemented the functionality of the manual player and 
 	utilized game trees, heuristics, and minimax algorithms to create an efficient AI to beat its opponent.
-	 Based on the board game Lines of Action.</p>
+	 Based on the board game Lines of Action by Claude Soucie.</p>
 </div>
 <!-- Break -->
 <hr class="major" />
@@ -31,13 +40,6 @@ nav-menu: true
 <div class="row"> 
 	<p> Recreated the German Enigma machine used in WWII to encrypt and decode messages, 
 	programming the permutations, substitution ciphers, and configurations of each interchangeable component of the system.  </p>
-</div>
-<!-- Break -->
-<hr class="major" />
-<h2>Scheme Interpreter</h2>
-<h4>Python </h4>
-<div class="row"> 
-	<p> Built a scheme interpreter in Python with tail recursion optimization, lazy evaluation, and streaming.</p>
 </div>
 <!-- Break -->
 <hr class="major" />
@@ -54,6 +56,7 @@ nav-menu: true
 	<button onclick="window.location.href = 'https://github.com/leerach/team3470/tree/master/teamcode';">GitHub</button>
 </ul>
 <div class="row"> 
-	<p> Mapped robot motors and servos to controls and programmed the autonomous trajectory of the robot in Java. Utilized phone camera communications with robot to enhance object detection with OpenCV to accurately identify an object's shape and color. </p>
+	<p>● Optimized color and shape detection in phone camera by incorporating open source computer vision software to enhance real-time image processing and communication with external sensors. <br>
+	● Mapped robot motors and servos to controls and programmed the autonomous trajectory of the robot in Java. Utilized phone camera communications with robot to enhance object detection with OpenCV to accurately identify an object's shape and color. </p>
 </div>
 <hr />
