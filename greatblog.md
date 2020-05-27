@@ -1,6 +1,6 @@
 ---
 layout: page
-show_tile:false
+show_tile: false
 title: Blog
 description: My personal insights in the cs field.
 image: assets/images/machinelearning.jpeg
