@@ -14,7 +14,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a class="image">
-			<img src="assets/images/lawlogo.jpg" alt="" data-position="center center" style = "max-width:100%;"/>
+			<img src="assets/images/lawlogo.jpg" alt="" data-position="center center" style = "max-width:100%;" style = "max-height:100%;" />
 		</a>
 		<div class="content">
 			<div class="inner">
