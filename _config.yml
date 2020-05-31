@@ -9,13 +9,13 @@ author: Rachel Lee
 street_address: 
 city: Berkeley
 state: CA
-zip_code: 94704 
+zip_code: 
 country: USA
-phone: +1(925)989-1451
+phone: 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 5
+tiles-count: 4
 
 # social settings
 500px_url:
