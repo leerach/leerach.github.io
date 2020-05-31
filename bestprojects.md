@@ -20,8 +20,13 @@ nav-menu: true
 <hr class="major" />
 <h2>Enrollment Graph Visualization</h2>
 <h4>JavaScript | HTML5 | PHP </h4>
+<ul class="actions"> 
+	<button onclick="window.location.href = 'https://enrollment-graph.herokuapp.com/;">Demo</button>
+</ul>
 <div class="row"> 
-	<p> Redesigned entire front-end visual representation of enrollment graph for Berkeley Law courses using Chart.js to create an aesthetic and user interactive interface for multiline charts pulling data from external APIs.</p>
+	<p> ● Redesigned entire front-end visual representation of enrollment graph for Berkeley Law courses using Chart.js to create an aesthetic and user interactive interface for multiline charts pulling data from external APIs. <br>
+	● Assisted in building back-end server-side by extracting and storing data from JSON files.
+	</p>
 </div>
 <hr class="major" />
 <h2>Gitlet: Recreation of Git</h2>
