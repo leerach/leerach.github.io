@@ -18,7 +18,7 @@ nav-menu: true
 <!-- Content -->
 <hr class="major" />
 <h2>Evictions in SF 3D Data Visualization</h2>
-<h4>JavaScript | Python </h4>
+<h4>Python | JavaScript</h4>
 <ul class="actions"> 
 	<button onclick="window.location.href = 'https://github.com/leerach/sf-evictions';">Github</button>
 </ul>
