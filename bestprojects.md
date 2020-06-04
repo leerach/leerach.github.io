@@ -16,6 +16,17 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
+<hr class="major" />
+<h2>Evictions in SF 3D Data Visualization</h2>
+<h4>JavaScript | Python </h4>
+<ul class="actions"> 
+	<button onclick="window.location.href = 'https://github.com/leerach/sf-evictions';">Github</button>
+</ul>
+<div class="row"> 
+	<p> ● Constructed 3D geospatial visualizations of eviction notices to analyze communities within San Francisco most impacted by evictions by integrating Deck.gl and NodeJS while using public data. <br>
+	● Predicted rate of growth of evictions over time 1997 to present using machine learning algorithms and tools for time series forecasting such as linear regression, kNN, Prophet, and ARIMA.
+	</p>
+</div>
 <!-- Break -->
 <hr class="major" />
 <h2>Enrollment Graph Visualization</h2>
@@ -28,6 +39,7 @@ nav-menu: true
 	● Assisted in building back-end server-side by extracting and storing data from JSON files.
 	</p>
 </div>
+<!-- Break -->
 <hr class="major" />
 <h2>Gitlet: Recreation of Git</h2>
 <h4>Java </h4>
@@ -36,6 +48,7 @@ nav-menu: true
 	● Learned how to apply persistence to preserve each state of the program and utilize graph traversals to handle merge conflicts and criss-cross merges.
   </p>
 </div>
+<!-- Break -->
 <hr class="major" />
 <h2>Lines of Action Board Game</h2>
 <h4>Java </h4>
