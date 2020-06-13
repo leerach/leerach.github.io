@@ -18,7 +18,6 @@ nav-menu: true
 
 <!-- Break -->
 <h2 id="content">Algorithms & Data Structures</h2>
-<br>
 
 <div class="row">
 	<div class="6u 12u$(small)">
@@ -37,7 +36,6 @@ nav-menu: true
 
 <!-- Break -->
 <h2 id="content">CS Theory</h2>
-<br>
 
 <div class="row">
 	<div class="12u$ 12u$(medium)">
@@ -50,7 +48,6 @@ nav-menu: true
 
 <!-- Break -->
 <h2 id="content">EE Systems & Design</h2>
-<br>
 
 <div class="row">
 	<div class="4u$ 12u$(medium)">
