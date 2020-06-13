@@ -18,6 +18,35 @@ nav-menu: true
 			<h1>Projects</h1>
 		</header>
 
+<hr class="major" />
+<div class="box alt">
+    <div class="row 50% uniform">
+        <div class="4u"><span class="image fit"><img src="{% link assets/images/EvictionsVisual.png %}" alt="" /></span></div>
+        <div class="$4u"><span class="image fit"><img src="{% link assets/images/opencv-detection.jpg %}" alt="" /></span></div>
+        <!-- Break -->
+        <div class="4u"><span class="image fit"><img src="{% link assets/images/gitlet.png %}" alt="" /></span></div>
+        <div class="4u"><span class="image fit"><img src="{% link assets/images/enigma.png %}" alt="" /></span></div>
+        <div class="$4u"><span class="image fit"><img src="{% link assets/images/loa.png %}" alt="" /></span></div>
+        <!-- Break -->
+        <div class="4u"><span class="image fit"><img src="{% link assets/images/enrollment-graph.png %}" alt="" /></span></div>
+    </div>
+</div>
+
+ <!-- ... Start of card... -->
+<div class="mdc-card mdc-card--outlined">
+  <div class="mdc-card__primary-action">
+    <div class="mdc-card__media mdc-card__media--square">
+      <div class="mdc-card__media-content">Evictions in SF 3D Data Visualization</div>
+    </div>
+    <!-- ... additional primary action content ... -->
+  </div>
+  <div class="mdc-card__actions">
+    <div class="mdc-card__action-buttons">
+      <button class="mdc-button mdc-card__action mdc-card__action--button">
+        <div class="mdc-button__ripple"></div>
+        <span class="mdc-button__label">Github</span>
+      </button>
+</div>
 
 <hr class="major" />
 <h2>Evictions in SF 3D Data Visualization</h2>
