@@ -21,13 +21,13 @@ nav-menu: true
 
 <div class="box">
 	<div class="row">
-		<div class="6u 12u$(small)">
+		<div class="4u 12u$(small)">
 			<h4>CS 61A: Structure and Interpretation of Computer Programs</h4>
 			<ul class="actions"> 
 				<button onclick="window.location.href = 'https://cs61a.org';">CS 61A</button>
 			</ul>
 		</div>
-		<div class="6u 12u$(small)">
+		<div class="4u 12u$(small)">
 			<h4>CS 61B: Data Structures</h4>
 			<ul class="actions"> 
 				<button onclick="window.location.href = 'https://inst.eecs.berkeley.edu/~cs61b/sp20/';">CS 61B</button>
@@ -41,7 +41,7 @@ nav-menu: true
 
 <div class="box">
 	<div class="row">
-		<div class="12u$ 12u$(medium)">
+		<div class="4u$ 12u$(medium)">
 			<h4>CS 70: Discrete Mathematics and Probability Theory</h4>
 			<ul class="actions"> 
 				<button onclick="window.location.href = 'https://eecs70.org';">CS 70</button>
