@@ -17,11 +17,46 @@ nav-menu: true
 		</header>
 
 
+<h2 id="content">Algorithms & Data Structures</h2>
+<div class="row">
+	<!-- Break -->
+	<div class="4u 12u$(medium)">
+		<h3>CS 61A: Structure and Interpretation of Computer Programs</h3>
+		<ul class="actions"> 
+			<button onclick="window.location.href = 'https://cs61a.org';">CS 61A</button>
+		</ul>
+	</div>
+	<div class="4u 12u$(medium)">
+		<h3>CS 61B: Data Structures</h3>
+		<ul class="actions"> 
+			<button onclick="window.location.href = 'https://inst.eecs.berkeley.edu/~cs61b/sp20/';">CS 61B</button>
+		</ul>
+	</div>
+
+<h2 id="content">CS Theory</h2>
+<div class="row">
+	<div class="4u$ 12u$(medium)">
+		<h3>CS 70: Discrete Mathematics and Probability Theory</h3>
+		<ul class="actions"> 
+			<button onclick="window.location.href = 'https://eecs70.org';">CS 70</button>
+		</ul>
+	</div>
+</div>
+
+<h2 id="content">EE Systems & Design</h2>
+<div class="row">
+	<div class="4u$ 12u$(medium)">
+		<h3>EECS 16A: Linear Algebra and Circuits</h3>
+		<ul class="actions"> 
+			<button onclick="window.location.href = 'http://www.eecs16a.org/';">EECS 16A</button>
+		</ul>
+	</div>
+</div>
 
 <!-- Content -->
-<h2 id="content">CS 61A: Structure and Interpretation of Computer Programs</h2> 
+<!-- <h2 id="content">CS 61A: Structure and Interpretation of Computer Programs</h2> 
 <ul class="actions"> 
-	<button onclick="window.location.href = 'https://cs61a.org';">CS61A</button>
+	<button onclick="window.location.href = 'https://cs61a.org';">CS 61A</button>
 </ul>
 
 <div class="box">
@@ -30,13 +65,22 @@ nav-menu: true
 
 <h2 id="content">CS 61B: Data Structures</h2> 
 <ul class="actions"> 
-	<button onclick="window.location.href = 'https://inst.eecs.berkeley.edu/~cs61b/sp20/';">CS61B</button>
+	<button onclick="window.location.href = 'https://inst.eecs.berkeley.edu/~cs61b/sp20/';">CS 61B</button>
 </ul>
 
 <div class="box">
 	<p>CS61B deals with the more advanced engineering aspects of software, such as constructing and analyzing large programs.</p>
-</div>	
+</div>
 
+<h2 id="content">CS 70: Discrete Mathematics and Probability</h2> 
+<ul class="actions"> 
+	<button onclick="window.location.href = 'https://eecs70.org';">CS 70</button>
+</ul>
+
+<div class="box">
+	<p>CS 61A concentrates on the idea of abstraction, allowing the programmer to think in terms appropriate to the problem rather than in low-level operations dictated by the computer hardware.</p>
+</div>	 -->
+<!-- 
 <h2 id="content">EECS 16A: Linear Algebra and Circuits</h2> 
 <ul class="actions"> 
 	<button onclick="window.location.href = 'http://www.eecs16a.org/';">EECS 16A</button>
@@ -65,4 +109,4 @@ nav-menu: true
 			<li>Module 3: Introduction to unsupervised machine learning and classification</li>
 		</ul>
 	</div>
-</div>
+</div> -->
