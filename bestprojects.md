@@ -10,6 +10,15 @@ nav-menu: true
   <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 </head>
 <div id="main" class="alt">
+
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>Projects</h1>
+		</header>
+
+<!-- Start of card -->
 <div class="mdc-card">
   <div class="mdc-card__primary-action">
     <div class="mdc-card__media mdc-card__media--square">
@@ -34,13 +43,6 @@ nav-menu: true
     </div>
   </div>
 </div>
-
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h1>Projects</h1>
-		</header>
 
 <!-- Content -->
 <hr class="major" />
