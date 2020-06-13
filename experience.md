@@ -13,8 +13,8 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a class="image fit">
-			<img src="assets/images/lawlogo.jpg" alt="" data-position="25% 25%" style = "max-width:100%;"/>
+		<a class="image">
+			<img src="assets/images/lawlogo.jpg" alt="" data-position="center center"/>
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -28,8 +28,8 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="http://girlsinengineering.berkeley.edu/" class="image fit">
-			<img src="assets/images/grouppic.JPG" alt="" data-position="25% 25%" style = "max-width:100%;"/>
+		<a class="image">
+			<img src="assets/images/grouppic.JPG" alt="" data-position="top center"/>
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -45,8 +45,8 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="https://www.firstinspires.org/robotics/ftc" class="image fit">
-			<img src="assets/images/frc.JPG" alt="" data-position="25% 25%" style = "max-width:100%;"/>
+		<a class="image">
+			<img src="assets/images/frc.JPG" alt="" data-position="25% 25%"/>
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -64,8 +64,8 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="https://www.kumon.com/" class="image fit">
-			<img src="assets/images/kumonlogo2.jpg" alt="" data-position="25% 25%" style = "max-width:100%;"/>
+		<a class="image">
+			<img src="assets/images/kumonlogo2.jpg" alt="" data-position="25% 25%"/>
 		</a>
 		<div class="content">
 			<div class="inner">
