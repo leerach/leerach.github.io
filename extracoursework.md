@@ -17,9 +17,8 @@ nav-menu: true
 		</header>
 
 <div class="row">
-	<div class="box-special">
-	<h2 id="content">Algorithms & Data Structures</h2>
-	</div>
+<div class="box-special">
+<h2 id="content">Algorithms & Data Structures</h2>
 </div>
 
 <div class="row">
@@ -37,13 +36,11 @@ nav-menu: true
 		</ul>
 	</div>
 </div>
-
+</div>
 
 <div class="row">
-	<div class="box-special">
-	<h2 id="content">CS Theory</h2>
-	</div>
-</div>
+<div class="box-special">
+<h2 id="content">CS Theory</h2>
 
 <div class="row">
 	<div class="12u$ 12u$(medium)">
@@ -53,11 +50,11 @@ nav-menu: true
 		</ul>
 	</div>
 </div>
+</div>
 
 <div class="row">
-	<div class="box-special">
-	<h2 id="content">EE Systems & Design</h2>
-	</div>
+<div class="box-special">
+<h2 id="content">EE Systems & Design</h2>
 </div>
 
 <div class="row">
@@ -68,7 +65,7 @@ nav-menu: true
 		</ul>
 	</div>
 </div>
-
+</div>
 <!-- Content -->
 <!-- <h2 id="content">CS 61A: Structure and Interpretation of Computer Programs</h2> 
 <ul class="actions"> 
