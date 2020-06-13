@@ -21,13 +21,13 @@ nav-menu: true
 
 <div class="box">
 	<div class="row">
-		<div class="4u 12u$(small)">
+		<div class="4u 12u$(medium)">
 			<h4>CS 61A: Structure and Interpretation of Computer Programs</h4>
 			<ul class="actions"> 
 				<button onclick="window.location.href = 'https://cs61a.org';">CS 61A</button>
 			</ul>
 		</div>
-		<div class="4u 12u$(small)">
+		<div class="4u 12u$(medium)">
 			<h4>CS 61B: Data Structures</h4>
 			<ul class="actions"> 
 				<button onclick="window.location.href = 'https://inst.eecs.berkeley.edu/~cs61b/sp20/';">CS 61B</button>
