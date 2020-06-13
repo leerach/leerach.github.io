@@ -6,6 +6,9 @@ image: assets/images/code.jpg
 nav-menu: true
 ---
 <!-- Main -->
+<head>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+</head>
 <div id="main" class="alt">
 <div class="mdc-card">
   <div class="mdc-card__primary-action">
