@@ -16,7 +16,7 @@ nav-menu: true
 			<h1>Coursework</h1>
 		</header>
 
-<div class="box">
+<div class="box-special">
 <h2 id="content">Algorithms & Data Structures</h2>
 </div>
 
@@ -36,7 +36,7 @@ nav-menu: true
 	</div>
 </div>
 
-<div class="box">
+<div class="box-special">
 <h2 id="content">CS Theory</h2>
 </div>
 
@@ -49,7 +49,7 @@ nav-menu: true
 	</div>
 </div>
 
-<div class="box">
+<div class="box-special">
 <h2 id="content">EE Systems & Design</h2>
 </div>
 
