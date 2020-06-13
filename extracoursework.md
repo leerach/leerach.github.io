@@ -44,7 +44,7 @@ nav-menu: true
 		<div class="4u$ 12u$(medium)">
 			<h4>CS 70: Discrete Mathematics and Probability Theory</h4>
 			<ul class="actions"> 
-				<button onclick="window.location.href = 'https://eecs70.org';">CS 70</button>
+				<button onclick="window.location.href = 'https://www.eecs70.org/';">CS 70</button>
 			</ul>
 		</div>
 	</div>
