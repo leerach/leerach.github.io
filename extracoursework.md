@@ -16,37 +16,46 @@ nav-menu: true
 			<h1>Coursework</h1>
 		</header>
 
-
+<div class="box">
 <h2 id="content">Algorithms & Data Structures</h2>
+</div>
+
 <div class="row">
 	<!-- Break -->
 	<div class="6u 12u$(small)">
-		<h5>CS 61A: Structure and Interpretation of Computer Programs</h5>
+		<h4>CS 61A: Structure and Interpretation of Computer Programs</h4>
 		<ul class="actions"> 
 			<button onclick="window.location.href = 'https://cs61a.org';">CS 61A</button>
 		</ul>
 	</div>
 	<div class="6u 12u$(small)">
-		<h5>CS 61B: Data Structures</h5>
+		<h4>CS 61B: Data Structures</h4>
 		<ul class="actions"> 
 			<button onclick="window.location.href = 'https://inst.eecs.berkeley.edu/~cs61b/sp20/';">CS 61B</button>
 		</ul>
 	</div>
+</div>
 
+<div class="box">
 <h2 id="content">CS Theory</h2>
+</div>
+
 <div class="row">
 	<div class="12u$ 12u$(medium)">
-		<h5>CS 70: Discrete Mathematics and Probability Theory</h5>
+		<h4>CS 70: Discrete Mathematics and Probability Theory</h4>
 		<ul class="actions"> 
 			<button onclick="window.location.href = 'https://eecs70.org';">CS 70</button>
 		</ul>
 	</div>
 </div>
 
+<div class="box">
 <h2 id="content">EE Systems & Design</h2>
+</div>
+
 <div class="row">
 	<div class="4u$ 12u$(medium)">
-		<h5>EECS 16A: Linear Algebra and Circuits</h5>
+		<h4>EECS 16A: Linear Algebra and Circuits</h4>
 		<ul class="actions"> 
 			<button onclick="window.location.href = 'http://www.eecs16a.org/';">EECS 16A</button>
 		</ul>
