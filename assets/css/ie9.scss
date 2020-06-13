@@ -2,6 +2,9 @@
 @import 'libs/functions';
 @import 'libs/mixins';
 @import 'libs/skel';
+@use "@material/card";
+
+@include card.core-styles;
 
 /*
 	Forty by HTML5 UP
@@ -28,6 +31,15 @@
 			}
 		}
 	}
+
+/* Cards */
+.my-card-content {
+  padding: 16px;
+}
+.my-card {
+  height: 350px;
+  width: 350px;
+}
 
 /* Tiles */
 
