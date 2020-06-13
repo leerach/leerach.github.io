@@ -19,22 +19,6 @@ nav-menu: true
 		</header>
 
 
-<!-- Content -->
-<hr class="major" />
-<div class="box alt">
-	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/EvictionsVisual.png %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/opencv-detection.jpg %}" alt="" /></span></div>
-		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/gitlet.png %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/enigma.png %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/loa.png %}" alt="" /></span></div>
-		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/enrollment-graph.png %}" alt="" /></span></div>
-	</div>
-</div>
-
-
 <hr class="major" />
 <h2>Evictions in SF 3D Data Visualization</h2>
 <h4>Python | JavaScript</h4>
