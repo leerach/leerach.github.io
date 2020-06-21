@@ -3,13 +3,13 @@
 /// html5up.net | @ajlkn
 /// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 ///
-
 /* Button */
 
 	input[type="submit"],
 	input[type="reset"],
 	input[type="button"],
 	button,
+
 	.button {
 		@include vendor('appearance', 'none');
 		@include vendor('transition', (
@@ -50,6 +50,16 @@
 			&:before {
 				margin-right: 0.5em;
 			}
+		}
+
+		&.resume {
+		background: url('https://img.icons8.com/cotton/64/000000/file.png');
+		border: none;
+		background-repeat: no-repeat;
+		background-position: 0px 4px;
+		background-size: 45px;
+		padding-left: 45px;
+		vertical-align: middle;
 		}
 
 		&.fit {
