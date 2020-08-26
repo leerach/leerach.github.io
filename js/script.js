@@ -97,7 +97,7 @@ $(function(){
 	}
 	$('#contact-form').validator().on('submit', function (e) {
 		
-		if (!e.isDefaultPrevented()) {
+		if (e.isDefaultPrevented()) {
 			// If there is no any error in validation then send the message
 			
 			e.preventDefault();

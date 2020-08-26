@@ -19,25 +19,29 @@
 		$data['error'] = 'Please enter a valid email address.';
 	}else if( empty($message) ){
 		$data['error'] = 'The message field is required!';
-	}else if( empty($phone) ){
-		$data['error'] = 'Please enter your phone number.';
-	}else if ( empty($website) ){
-		$data['error'] = 'Please enter your website.';
+	// }else if( empty($phone) ){
+	// 	$data['error'] = 'Please enter your phone number.';
+	// }else if ( empty($website) ){
+	// 	$data['error'] = 'Please enter your website.';
 	}else{
 		
 		$formcontent="From: $name\nPhone: $phone\nWebsite: $website\nEmail: $email\nMessage: $message";
 		
 		
 		//Place your Email Here
-		$recipient = "your_email@domain.com";
+		$recipient = "bokyounglee@berkeley.edu";
 		
 		$mailheader = "From: $email \r\n";
 		
-		if( mail($recipient, $name, $formcontent, $mailheader) == false ){
-			$data['error'] = 'Sorry, an error occured!';
-		}else{
+		// if( mail($recipient, $name, $mailheader) == false ){
+		// 	console.log($recipient);
+		// 	console.log($name);
+		// 	console.log($formcontent);
+		// 	console.log($mailheader);
+		// 	$data['error'] = 'Sorry, an error occured!';
+		// }else{
 			$data['error'] = false;
-		}
+		// }
 	
 	}
 	
