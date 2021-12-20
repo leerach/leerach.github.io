@@ -1131,8 +1131,8 @@ body.section-show .transition-mask:before{
 	line-height:1em;
 	vertical-align:middle;
 	font-size:45px;
-}
-.service > .icon > i{
+} 
+ .service > .icon > i{
 	display:inline-block;
 	line-height:inherit;
 	height:inherit;
@@ -1143,6 +1143,48 @@ body.section-show .transition-mask:before{
 	-o-transform:rotate(-45deg);
 	transform:rotate(-45deg);
 }
+
+.service > .icon > a{
+	-webkit-transform:rotate(45deg);
+	-moz-transform:rotate(45deg);
+	-ms-transform:rotate(45deg);
+	-o-transform:rotate(45deg);
+	transform:rotate(45deg);
+	height:90px;
+	width:90px;
+	line-height:90px;
+	vertical-align:middle;
+	text-align:center;
+	margin:auto;
+	-webkit-transition:all .3s ease-in-out;
+	-moz-transition:all .3s ease-in-out;
+	transition:all .3s ease-in-out;
+	font-size:0;
+	background:#B7A389;
+	color:#FFF;
+	position:relative;
+	top:0;
+}
+.service > .icon > a > i{
+	display:inline-block;
+	line-height:inherit;
+	height:inherit;
+	width:inherit;
+	-webkit-transform:rotate(-45deg);
+	-moz-transform:rotate(-45deg);
+	-ms-transform:rotate(-45deg);
+	-o-transform:rotate(-45deg);
+	transform:rotate(-45deg);
+	height:90px;
+	width:90px;
+	line-height:90px;
+}
+.service > .icon > a > i:before{
+	font-size:40px;
+	line-height:1em;
+	vertical-align:middle;
+}
+
 .service > .content > h4{
 	font-size:20px;
 	margin-top:50px;
