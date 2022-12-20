@@ -1,6 +1,6 @@
 <?php
 
-$to = "rachel@rachelee.com";
+$to = "bokyounglee@berkeley.edu";
 $from = $_REQUEST['email'];
 $name = $_REQUEST['name'];
 $headers = "From: $from";
@@ -8,13 +8,13 @@ $subject = "You have a message.";
 
 $fields = array();
 $fields{
-"name"} = "name";
+    "name"} = "name";
 $fields{
-"email"} = "email";
+    "email"} = "email";
 $fields{
-"phone"} = "phone";
+    "phone"} = "phone";
 $fields{
-"message"} = "message";
+    "message"} = "message";
 
 
 
@@ -26,3 +26,4 @@ foreach ($fields as $a => $b) {
 
 
 $send = mail($to, $subject, $body, $headers);
+@mail($to, $subject, $body, $headers);
