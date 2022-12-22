@@ -173,10 +173,23 @@
 
                             <!-- single work -->
                             <div class="col-md-4 col-sm-6  swe">
-                                <a id="demo02" class="portfolio_item"> <img src="img/projects/images.png" alt="image" class="img-responsive" />
+                                <a id="demo02" href="#animatedModal2" class="portfolio_item"> <img src="img/projects/images.png" alt="image" class="img-responsive" />
                                     <div class="portfolio_item_hover">
                                         <div class="portfolio-border clearfix">
-                                            <div class="item_info"> <span>Memories</span> <em>image to text emotion ML classifier</em> </div>
+                                            <div class="item_info"> <span>Memories</span> <em>image to emotion ML classifier</em> </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <!-- end single work -->
+
+                            <!-- single work -->
+                            <div class="col-md-4 col-sm-6 research swe">
+                                <a id="demo01" class="portfolio_item"> <img src="img/projects/chart.png" alt="image" class="img-responsive" />
+                                    <div class="portfolio_item_hover">
+                                        <div class="portfolio-border clearfix">
+                                            <div class="item_info"> <span>Course Enrollment Web App</span> <em>UC Berkeley Law enrollment application
+                                                    </em> </div>
                                         </div>
                                     </div>
                                 </a>
@@ -273,55 +286,54 @@
     <!-- ./contact -->
 
     <!--DEMO01-->
-    <!-- <div id="animatedModal" class="popup-modal">
-        THIS IS IMPORTANT! to close the modal, the class name has to match the name given on the ID
+    <div id="animatedModal" class="popup-modal">
+        <!-- THIS IS IMPORTANT! to close the modal, the class name has to match the name given on the ID -->
         <div id="btn-close-modal" class="close-animatedModal close-popup-modal"> <i class="ion-close-round"></i> </div>
         <div class="clearfix"></div>
         <div class="modal-content">
             <div class="container">
                 <div class="portfolio-padding">
                     <div class="col-md-8 col-md-offset-2">
-                        <h2>Geschäfts Eines<br /> Web-Studios</h2>
+                        <h2>Cloud Tenant Networking API</h2>
                         <div class="h-50"></div>
-                        <p>Appropriately maintain standards compliant total linkage with cutting-edge action items. Enthusiastically create seamless synergy rather than excellent value. Quickly promote premium strategic theme areas vis-a-vis.</p>
-                        <p>Appropriately maintain standards compliant total linkage with cutting-edge action items. Enthusiastically create seamless synergy rather than excellent value.</p>
+                        <p>With the growing complexity of cloud deployments and network virtualizations among popular providers (such as AWS, Azure, etc), we develop a new solution for users to simplify the creation and operation of these virtual networks by using a declarative API to abstract away these details.</p>
+                                                <p>For more details, read the full paper <a href="https://dl.acm.org/doi/pdf/10.1145/3458336.3465303">here</a></p>
+
                         <br />
                         <br /> <img src="img/portfolio/02.jpg" alt="" class="img-responsive" />
                         <br />
                         <br />
                         <p>Appropriately maintain standards compliant total linkage with cutting-edge action items. Enthusiastically create seamless synergy rather than excellent value. Quickly promote premium strategic theme areas vis-a-vis.</p>
-                        <p>Appropriately maintain standards compliant total linkage with cutting-edge action items. Enthusiastically create seamless synergy rather than excellent value.</p>
                         <br />
                         <br /> </div>
                 </div>
             </div>
         </div>
-    </div> -->
+    </div>
 
-    <div id="animatedModal" class="popup-modal">
-        <!--THIS IS IMPORTANT! to close the modal, the class name has to match the name given on the ID -->
-        <div id="btn-close-modal" class="close-animatedModal close-popup-modal"> <i class="ion-close-round"></i> </div>
+    <div id="animatedModal2" class="popup-modal">
+        <!-- THIS IS IMPORTANT! to close the modal, the class name has to match the name given on the ID -->
+        <div id="btn-close-modal" class="close-animatedModal2 close-popup-modal"> <i class="ion-close-round"></i> </div>
         <div class="clearfix"></div>
         <div class="modal-content">
             <div class="container">
                 <div class="portfolio-padding">
                     <div class="col-md-8 col-md-offset-2">
-                        <h2>Memories<br /> Web-Studios</h2>
+                        <h2>Memories:<br /> Image-to-emotion classifier</h2>
                         <div class="h-50"></div>
-                        <p>Appropriately maintain standards compliant total linkage with cutting-edge action items.
-                            Enthusiastically create seamless synergy rather than excellent value. Quickly promote premium
-                            strategic theme areas vis-a-vis.</p>
-                        <p>Appropriately maintain standards compliant total linkage with cutting-edge action items.
-                            Enthusiastically create seamless synergy rather than excellent value.</p>
+                        <p>During my first semester in Launchpad (a UC Berkeley machine learning community for students), our team created a web app where users can upload pictures from their photo album and generate ambient
+                        sounds and songs from the image’s scenery and emotion. </p>
+                        
+                        <p>Check out our website <a href="https://memories-6e3e4.web.app">here!</a>
+                        </p>
                         <br />
-                        <br /> <img src="img/portfolio/02.jpg" alt="" class="img-responsive" />
+                        <br /> <img src="img/projects/memories.png" alt="" class="img-responsive" />
                         <br />
                         <br />
-                        <p>Appropriately maintain standards compliant total linkage with cutting-edge action items.
-                            Enthusiastically create seamless synergy rather than excellent value. Quickly promote premium
-                            strategic theme areas vis-a-vis.</p>
-                        <p>Appropriately maintain standards compliant total linkage with cutting-edge action items.
-                            Enthusiastically create seamless synergy rather than excellent value.</p>
+                        <p>Our software uses pre-trained models such as Resnet and Soundnet
+                        and a multimodal architecture to deconstruct both images and audio.</p>
+                        <p>We trained datasets consisting of over thousands of images and audio samples by building off the Image Resnet model and Sound MFCC model to output an emotion vector for each song given an image. Then we compared the vector features
+                            using entropy and selected the top 3 audio clips with the greatest similarities with the sample image. </p>
                         <br />
                         <br />
                     </div>
