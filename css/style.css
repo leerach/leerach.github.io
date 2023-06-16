@@ -349,6 +349,7 @@ a.active {
 
 .about-img-div img {
     margin: 0 auto;
+    padding-top: 4rem;
 }
 
 .about-border {
@@ -663,7 +664,10 @@ a.active {
 .animatedModal-on .close-popup-modal {
     opacity: 1;
 }
-.animatedModal2-on .close-popup-modal {
+.project-memories-on .close-popup-modal {
+    opacity: 1;
+}
+.project-networking-api-on .close-popup-modal {
     opacity: 1;
 }
 

@@ -104,8 +104,9 @@ $(document).ready(function () {
     });
 
     //animatedModal
-    $("#demo01").animatedModal({modalTarget: 'animatedModal'});
-    $("#demo02").animatedModal({modalTarget: 'animatedModal2'});
+    $("#demo01").animatedModal({modalTarget: 'project-networking-api'});
+    $("#demo02").animatedModal({modalTarget: 'project-memories'});
+    $("#sfEvictionModel").animatedModal({modalTarget: 'animatedModal3'});
 
     // typewriter
     var TxtType = function(el, toRotate, period) {
