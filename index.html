@@ -344,7 +344,7 @@
                         <p>Our software uses pre-trained models such as Resnet and Soundnet
                         and a multimodal architecture to deconstruct both images and audio.</p>
                         <p>We trained datasets consisting of over thousands of images and audio samples by building off the Image Resnet model and Sound MFCC model to output an emotion vector for each song given an image. Then we compared the vector features
-                            using entropy and selected the top 3 audio clips with the greatest similarities with the sample image. </p>
+                            by calculating their cross-entropy and selected the top 3 audio clips with the greatest similarities with the sample image. </p>
 
                             <p>The web app was created in React and hosted on Firebase.</p>
                         <br />
